@@ -1,12 +1,16 @@
 
-3. Paddles to break. Detect collision and etc.
-
-4. Scoreboard.
-
-Try to use classes
 ----------------------Done below-------------------
 
 1. Main Paddle (User)
 
 
 2. Ball. Ball bounce
+
+
+3. Paddles to break. Detect collision and etc.
+
+
+
+4. Scoreboard.
+
+Try to use classes
